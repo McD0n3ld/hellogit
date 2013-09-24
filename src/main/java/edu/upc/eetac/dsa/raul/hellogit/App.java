@@ -1,4 +1,4 @@
-package edu.upc.eetac.dsa.gtX.hellogit;
+package edu.upc.eetac.dsa.raul.hellogit;
 
 /**
  * Hello world!
